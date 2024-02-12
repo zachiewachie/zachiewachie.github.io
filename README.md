@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Beats and Eats</title>
+
 </head>
    <body>
        <h1>Beats and Eats Festival</h1>
